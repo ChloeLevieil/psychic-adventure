@@ -1,1 +1,1 @@
-# psychic-adventure
+Création d'une base de données pour regrouper les potins THP (attention ça va clasher). Chaque moussaillon peut lâcher son scoop (à ses risques et puérils) à travers un formulaire et se retrouvera avec tous les autres sur une base de données CSV. Attrapez-les tous (les potins of course).
